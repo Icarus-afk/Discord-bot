@@ -17,4 +17,4 @@ bot.add_cog(music_cog(bot))
 
 #start the bot with our token
 
-bot.run("OTg0NDQ5OTU2MDM3NDA2NzUw.GiuFbH.tKGs-oHIOCqCIuW0OqmoEjhi_HfSEFgfb3MPrc")
+bot.run("my token")
