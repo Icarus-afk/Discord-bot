@@ -1,5 +1,3 @@
-discord.py==1.4.1
-pip
-youtube_dl
+discord.py
 ffmpeg
-PyNaCl
+youtube_dl
