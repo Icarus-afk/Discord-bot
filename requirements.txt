@@ -1,4 +1,3 @@
-git+https://github.com/Icarus-afk/Discord-Music-bot-for-personal-use/blob/main/bot.py
 discord.py==1.4.1
 pip
 youtube_dl
